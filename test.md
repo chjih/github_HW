@@ -4,10 +4,6 @@
 
 # - **목차**
 
-15. 이미지 (Images)
-16. 이스케이프 문자 (Escape Literal)
-17. HTML
-18. GitHub Flavered Markdown (GFM) 사용 방법
 
 <br>
 <br>
