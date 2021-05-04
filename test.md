@@ -26,41 +26,7 @@
 <br>
 <br>
 
-# **1. 제목 (Heading)**
-## - 사용 방법
-- '# 제목 이름'   
-- 숫자 기호의 수 = 제목 수준  
-- 항상 '#' 와 제목 이름 사이에 공백을 둬야 함
 
-### *예)*
-
-    # Heading level 1
-    ## Heading level 2
-    ### Heading level 3
-    #### Heading level 4
-<br>
-
-### *<출력 결과>*
----
-# Heading level 1
-## Heading level 2
-### Heading level 3
-#### Heading level 4
----
-<br>
-<br>
-
-## - 대체 구문
-
-- 텍스트 아래 제목 수준 1은 '=' , 제목 수준 2은 '-'를 원하는 만큼 추가
-
-### *예)*
-
-    Headign level 1
-    ===============
-    Heading level 2
-    ---------------
-<br>
 
 ### *<출력 결과>*
 ---
