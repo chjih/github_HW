@@ -41,7 +41,7 @@
 <br>
 <br>
 
-# git  설정
+# git 설정
 
 ## _- 목적_
 - user.name과 user.email을 각각 "천지홍", "clara5091@naver.com"으로 바꾸고 싶다.
